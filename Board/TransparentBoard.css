@@ -1,0 +1,10 @@
+@-moz-document domain("lichess.org")
+{
+  .purple .is2d cg-board,
+#top div.color_demo.purple
+  {
+    background-image: url("https://i.imgur.com/s3KyFCm.png")  !important;
+  }
+}
+
+/* Please Use Purple Board in Lichess Board Settings for the code to work. */
